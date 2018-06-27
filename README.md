@@ -24,8 +24,8 @@ npm run dev
 http://0.0.0.0:9099
 open cansole you can see two outputs.
 
->plugin called
->File Called
+---**plugin called**
+---**File Called**
 
 
 **Now got to http://0.0.0.0:9099/index-external-vendor.html and check, cansole is clear because file is not called** .
