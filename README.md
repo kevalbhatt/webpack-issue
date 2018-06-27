@@ -3,7 +3,7 @@
 
 https://stackoverflow.com/questions/51046588/webpack-4-after-splitchunks-cachegroups-entry-file-is-not-required-or-called
 
-I want to create a jquery plugin with **UMD** support using es6 and "**webpack**" so I started with the design but after the build, I saw I have one test.js file with my code and all the dependency in it.
+I want to create a jquery plugin with **UMD** support using es6 and "**webpack**" so I started with the design but after the build, I have one test.js file with my code and all the dependency in it.
 
 So I configured webpack to create vendor chunk.
 
